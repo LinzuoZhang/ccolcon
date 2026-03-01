@@ -1,0 +1,10 @@
+log
+test_ws
+build
+.vscode
+__pycache__
+install
+*.egg-info
+*.pyc
+.claude
+.ccolcon
