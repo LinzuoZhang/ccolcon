@@ -5,7 +5,7 @@ from textual.screen import Screen
 from textual.widgets import DataTable, Static, Header, Footer, Input
 from textual.binding import Binding
 from textual.containers import Vertical, Horizontal, Container
-from ccolcon.models.build_config import BuildConfig, ALL_OPTIONS
+from ccolcon.models.build_config import BuildConfig
 from ccolcon.screens.package_select import PackageSelectScreen
 
 
