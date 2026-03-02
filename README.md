@@ -14,7 +14,9 @@ pip install -e .
 cd /path/to/your/ros2/workspace
 ccolcon build
 ```
-
+<p align="center">
+  <img src="doc/build_demo.gif"/>
+</p>
 ## Features
 
 - Interactive terminal UI (TUI)
