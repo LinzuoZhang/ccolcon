@@ -4,7 +4,9 @@ Interactive terminal tool for compiling ROS2 workspaces, similar to ccmake.
 
 ## Overview
 
-`ccolcon` is an interactive terminal user interface (TUI) tool designed to simplify the process of building ROS2 workspaces. It provides a visual interface for configuring build options and selecting packages to compile, making the ROS2 build process more intuitive and user-friendly.
+The command-line interface of colcon often involves long and hard-to-remember commands, which increases the complexity of building ROS2 workspaces. To address this issue, we developed ccolcon, inspired by the interactive design of ccmake in the CMake ecosystem.
+
+'ccolcon' is a terminal-based interactive user interface (TUI) tool that simplifies the ROS2 workspace build process. It provides a visual interface for configuring build options and selecting packages to compile, making the overall workflow more intuitive, efficient, and user-friendly.
 
 ## Installation
 
